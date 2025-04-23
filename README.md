@@ -53,6 +53,57 @@ ShowSync implements:
 
 📱 App Demo
 App Screenshots
+🎬 ShowSync - Movie Database App
+<div align="center">
+Show Image
+Your personal movie companion
+Show Image
+Show Image
+Show Image
+</div>
+ShowSync is a feature-rich Android application that lets movie enthusiasts discover, search, and curate their personal movie collection using The Movie Database (TMDB) API. Built with modern Android architecture and best practices.
+✨ Features
+
+🔍 Search & Discover: Find any movie from TMDB's extensive database
+📍 Nearby Movies: Discover movies trending in your region
+❤️ Favorites: Build and manage your personal movie collection
+📱 Offline Support: View your saved movies even without internet
+📝 Custom Movies: Add personal movie entries with custom details
+🌐 Multi-language: Full support for English and Hebrew
+
+🏗️ Architecture & Tech Stack
+<div align="center">
+  <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="500" alt="MVVM Architecture">
+</div>
+ShowSync implements:
+
+🏛️ MVVM Architecture
+
+Clear separation of concerns
+Testable components
+Lifecycle-aware data handling
+
+
+🧩 Android Jetpack
+
+↔️ Navigation Component
+💾 Room Database
+📊 ViewModel & LiveData
+🔗 ViewBinding
+
+
+⚡ Modern Android Development
+
+🧵 Coroutines & Flow
+🌐 Retrofit & OkHttp
+🖼️ Glide
+💉 Dagger Hilt
+📍 Google Location Services
+
+
+
+📱 App Demo
+App Screenshots
 <div align="center">
   <h3>Search Movies</h3>
   <!-- Control image size with width and height attributes -->
@@ -75,9 +126,6 @@ App Screenshots
   <h3>Try the interactive app tour!</h3>
   <a href="https://youtu.be/your-demo-link">
     <img src="https://img.shields.io/badge/Watch%20Demo-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="200">
-  </a>
-</div>
- 
   </a>
 </div>
 🛠️ Dependencies
