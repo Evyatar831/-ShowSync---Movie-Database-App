@@ -51,35 +51,25 @@ ShowSync implements:
   - 💉 Dagger Hilt
   - 📍 Google Location Services
 
-## 📱 App Demo
-
+📱 App Demo
+App Screenshots
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/200x400?text=Movie+Search" width="200" alt="Movie Search"></td>
-      <td><img src="https://via.placeholder.com/200x400?text=Movie+Details" width="200" alt="Movie Details"></td>
-      <td><img src="https://via.placeholder.com/200x400?text=Favorites" width="200" alt="Favorites"></td>
-    </tr>
-    <tr>
-      <td align="center">Search Movies</td>
-      <td align="center">Movie Details</td>
-      <td align="center">Favorites Collection</td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/200x400?text=Nearby+Movies" width="200" alt="Nearby Movies"></td>
-      <td><img src="https://via.placeholder.com/200x400?text=Add+Movie" width="200" alt="Add Movie"></td>
-      <td><img src="https://via.placeholder.com/200x400?text=All+Movies" width="200" alt="All Movies"></td>
-    </tr>
-    <tr>
-      <td align="center">Regional Discoveries</td>
-      <td align="center">Add Custom Movies</td>
-      <td align="center">Movie Collection</td>
-    </tr>
-  </table>
+  <h3>Search Movies</h3>
+  <img src="https://i.imgur.com/EXAMPLE1.png" width="300" alt="Movie Search">
+  <h3>Movie Details</h3>
+  <img src="https://i.imgur.com/EXAMPLE2.png" width="300" alt="Movie Details">
+  <h3>Favorites Collection</h3>
+  <img src="https://i.imgur.com/EXAMPLE3.png" width="300" alt="Favorites">
+  <h3>Regional Discoveries</h3>
+  <img src="https://i.imgur.com/EXAMPLE4.png" width="300" alt="Nearby Movies">
+  <h3>Add Custom Movies</h3>
+  <img src="https://i.imgur.com/EXAMPLE5.png" width="300" alt="Add Movie">
+  <h3>Movie Collection</h3>
+  <img src=![image](https://github.com/user-attachments/assets/dfae4009-ed53-4071-8a56-8c060faff0b1)
+>
 </div>
-
 <div align="center">
-  <p><b>Try the interactive app tour!</b></p>
+  <h3>Try the interactive app tour!</h3>
   <a href="https://youtu.be/your-demo-link">
     <img src="https://img.shields.io/badge/Watch%20Demo-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="200">
   </a>
