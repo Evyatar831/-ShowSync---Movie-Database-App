@@ -66,7 +66,7 @@ App Screenshots
   <img src="https://i.imgur.com/EXAMPLE5.png" width="300" alt="Add Movie">
   <h3>Movie Collection</h3>
   
-  ![image](https://github.com/user-attachments/assets/b1761593-7008-4305-b1a0-0475686896b5)
+![image](https://github.com/user-attachments/assets/117c60db-5012-4323-8dfd-fa5f75448473)
 
 
 </div>
