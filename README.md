@@ -2,7 +2,9 @@
 
 <div align="center">
   
-  ![ShowSync App Logo](app/src/main/res/drawable/app_logo.png)
+  
+  ![image](https://github.com/user-attachments/assets/dabec574-7b50-4247-a258-8796cc90bb6b)
+
   
   ### Your personal movie companion
   
