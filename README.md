@@ -65,9 +65,10 @@ App Screenshots
   <h3>Add Custom Movies</h3>
   <img src="https://i.imgur.com/EXAMPLE5.png" width="300" alt="Add Movie">
   <h3>Movie Collection</h3>
+  
   ![image](https://github.com/user-attachments/assets/f4e35326-a2b1-453e-9d22-522ba929a986)
 
->
+
 </div>
 <div align="center">
   <h3>Try the interactive app tour!</h3>
