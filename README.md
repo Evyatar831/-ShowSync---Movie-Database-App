@@ -55,18 +55,49 @@ ShowSync implements:
 App Screenshots
 <div align="center">
   <h3>Search Movies</h3>
-  <img src="https://i.imgur.com/EXAMPLE1.png" width="300" alt="Movie Search">
+  <!-- Control image size with width and height attributes -->
+  <img src="https://i.imgur.com/EXAMPLE1.png" width="300" height="600" alt="Movie Search">
   <h3>Movie Details</h3>
+  <!-- You can use only width to maintain aspect ratio -->
   <img src="https://i.imgur.com/EXAMPLE2.png" width="300" alt="Movie Details">
   <h3>Favorites Collection</h3>
-  <img src="https://i.imgur.com/EXAMPLE3.png" width="300" alt="Favorites">
+  <!-- You can use percentages for responsive sizing -->
+  <img src="https://i.imgur.com/EXAMPLE3.png" width="50%" alt="Favorites">
   <h3>Regional Discoveries</h3>
-  <img src="https://i.imgur.com/EXAMPLE4.png" width="300" alt="Nearby Movies">
+  <!-- You can use HTML style attribute for more control -->
+  <img src="https://i.imgur.com/EXAMPLE4.png" style="width:300px; max-width:100%; border:2px solid #ddd; border-radius:10px;" alt="Nearby Movies">
   <h3>Add Custom Movies</h3>
   <img src="https://i.imgur.com/EXAMPLE5.png" width="300" alt="Add Movie">
   <h3>Movie Collection</h3>
-  
-![image](https://github.com/user-attachments/assets/117c60db-5012-4323-8dfd-fa5f75448473)
+  <img src="https://github.com/user-attachments/assets/b1761593-7008-4305-b1a0-0475686896b5" width="300" alt="Movie Collection">
+</div>
+<div align="center">
+  <h3>Try the interactive app tour!</h3>
+  <a href="https://youtu.be/your-demo-link">
+    <img src="https://img.shields.io/badge/Watch%20Demo-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="200">
+  </a>
+</div>
+🛠️ Dependencies
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>AndroidX Core: 1.15.0</li>
+        <li>Lifecycle: 2.8.7</li>
+        <li>Room: 2.6.1</li>
+        <li>Retrofit: 2.9.0</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Glide: 4.16.0</li>
+        <li>Google Play Services: 21.3.0</li>
+        <li>Material Design: 1.12.0</li>
+        <li>Kotlin Coroutines: 1.6.4</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 </div>
