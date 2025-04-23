@@ -67,14 +67,13 @@ App Screenshots
   <!-- You can use HTML style attribute for more control -->
   <img src="https://i.imgur.com/EXAMPLE4.png" style="width:300px; max-width:100%; border:2px solid #ddd; border-radius:10px;" alt="Nearby Movies">
   <h3>Add Custom Movies</h3>
-  <img src="https://i.imgur.com/EXAMPLE5.png" width="300" alt="Add Movie">
+  <img src="![image](https://github.com/user-attachments/assets/26e66afd-3349-4748-ae08-f0e9b72a4379)
+" width="300" alt="Add Movie">
   <h3>Movie Collection</h3>
   <img src="https://github.com/user-attachments/assets/b1761593-7008-4305-b1a0-0475686896b5" width="300" alt="Movie Collection">
 </div>
 <div align="center">
-  <h3>Try the interactive app tour!</h3>
-  <a href="https://youtu.be/your-demo-link">
-    <img src="https://img.shields.io/badge/Watch%20Demo-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="200">
+ 
   </a>
 </div>
 🛠️ Dependencies
@@ -101,12 +100,7 @@ App Screenshots
 
 
 </div>
-<div align="center">
-  <h3>Try the interactive app tour!</h3>
-  <a href="https://youtu.be/your-demo-link">
-    <img src="https://img.shields.io/badge/Watch%20Demo-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="200">
-  </a>
-</div>
+
 
 ## 🛠️ Dependencies
 
