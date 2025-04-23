@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  
-  ![image](https://github.com/user-attachments/assets/dabec574-7b50-4247-a258-8796cc90bb6b)
+  ![image](https://github.com/user-attachments/assets/1b9d6c73-53a4-4b39-8d9f-31a8c1ed1a87)
+
 
   
   ### Your personal movie companion
