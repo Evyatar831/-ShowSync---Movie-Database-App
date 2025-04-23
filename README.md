@@ -102,32 +102,7 @@ Lifecycle-aware data handling
 
 
 
-📱 App Demo
-App Screenshots
-<div align="center">
-  <h3>Search Movies</h3>
-  <!-- Control image size with width and height attributes -->
-  <img src="https://i.imgur.com/EXAMPLE1.png" width="300" height="600" alt="Movie Search">
-  <h3>Movie Details</h3>
-  <!-- You can use only width to maintain aspect ratio -->
-  <img src="https://i.imgur.com/EXAMPLE2.png" width="300" alt="Movie Details">
-  <h3>Favorites Collection</h3>
-  <!-- You can use percentages for responsive sizing -->
-  <img src="https://i.imgur.com/EXAMPLE3.png" width="50%" alt="Favorites">
-  <h3>Regional Discoveries</h3>
-  <!-- You can use HTML style attribute for more control -->
-  <img src="https://i.imgur.com/EXAMPLE4.png" style="width:300px; max-width:100%; border:2px solid #ddd; border-radius:10px;" alt="Nearby Movies">
-  <h3>Add Custom Movies</h3>
-  <img src="https://i.imgur.com/EXAMPLE5.png" width="300" alt="Add Movie">
-  <h3>Movie Collection</h3>
-  <img src="https://github.com/user-attachments/assets/b1761593-7008-4305-b1a0-0475686896b5" width="300" alt="Movie Collection">
-</div>
-<div align="center">
-  <h3>Try the interactive app tour!</h3>
-  <a href="https://youtu.be/your-demo-link">
-    <img src="https://img.shields.io/badge/Watch%20Demo-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" width="200">
-  </a>
-</div>
+📱 App Demo App Screenshots <div align="center"> <h3>Search Movies</h3> <!-- Control image size with width and height attributes --> <img src="https://github.com/user-attachments/assets/c4327575-9be4-431d-9c2a-951ccd2e7442" width="300" height="600" alt="Movie Search"> <h3>Movie Details</h3> <!-- You can use only width to maintain aspect ratio --> <img src="https://github.com/user-attachments/assets/17c017c1-4eeb-404d-a269-50138485b8d8" width="300" alt="Movie Details"> <h3>Favorites Collection</h3> <!-- You can use percentages for responsive sizing --> <img src = "https://github.com/user-attachments/assets/b0c2a07c-9308-496f-a4b1-c1557018ecf7" width="50%" alt="Favorites"> <h3>Regional Discoveries</h3> <!-- You can use HTML style attribute for more control --> <img src="https://github.com/user-attachments/assets/782fa021-e2cb-42e2-b558-0bb6e4ad7dce" style="width:300px; max-width:100%; border:2px solid #ddd; border-radius:10px;" alt="Nearby Movies"> <h3>Add Custom Movies</h3> <img src="https://github.com/user-attachments/assets/26e66afd-3349-4748-ae08-f0e9b72a4379" width="300" alt="Add Movie"> <h3>Movie Collection</h3> <img src="https://github.com/user-attachments/assets/b1761593-7008-4305-b1a0-0475686896b5" width="300" alt="Movie Collection"> </div> <div align="center">
 🛠️ Dependencies
 <table>
   <tr>
