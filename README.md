@@ -53,80 +53,9 @@ ShowSync implements:
 
 📱 App Demo
 App Screenshots
-🎬 ShowSync - Movie Database App
-<div align="center">
-Show Image
-Your personal movie companion
-Show Image
-Show Image
-Show Image
-</div>
-ShowSync is a feature-rich Android application that lets movie enthusiasts discover, search, and curate their personal movie collection using The Movie Database (TMDB) API. Built with modern Android architecture and best practices.
-✨ Features
 
-🔍 Search & Discover: Find any movie from TMDB's extensive database
-📍 Nearby Movies: Discover movies trending in your region
-❤️ Favorites: Build and manage your personal movie collection
-📱 Offline Support: View your saved movies even without internet
-📝 Custom Movies: Add personal movie entries with custom details
-🌐 Multi-language: Full support for English and Hebrew
+ <div align="center"> <h3>Search Movies</h3> <!-- Control image size with width and height attributes --> <img src="https://github.com/user-attachments/assets/c4327575-9be4-431d-9c2a-951ccd2e7442" width="300" height="600" alt="Movie Search"> <h3>Movie Details</h3> <!-- You can use only width to maintain aspect ratio --> <img src="https://github.com/user-attachments/assets/17c017c1-4eeb-404d-a269-50138485b8d8" width="300" alt="Movie Details"> <h3>Favorites Collection</h3> <!-- You can use percentages for responsive sizing --> <img src = "https://github.com/user-attachments/assets/b0c2a07c-9308-496f-a4b1-c1557018ecf7" width="300" alt="Favorites"> <h3>Regional Discoveries</h3> <!-- You can use HTML style attribute for more control --> <img src="https://github.com/user-attachments/assets/782fa021-e2cb-42e2-b558-0bb6e4ad7dce" style="width:300px; max-width:100%; border:2px solid #ddd; border-radius:10px;" alt="Nearby Movies"> <h3>Add Custom Movies</h3> <img src="https://github.com/user-attachments/assets/26e66afd-3349-4748-ae08-f0e9b72a4379" width="300" alt="Add Movie"> <h3>Movie Collection</h3> <img src="https://github.com/user-attachments/assets/f519b110-68d1-40a3-b175-9bb20679d32c" width="300" alt="Movie Collection"> </div> <div align="center">
 
-🏗️ Architecture & Tech Stack
-<div align="center">
-  <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="500" alt="MVVM Architecture">
-</div>
-ShowSync implements:
-
-🏛️ MVVM Architecture
-
-Clear separation of concerns
-Testable components
-Lifecycle-aware data handling
-
-
-🧩 Android Jetpack
-
-↔️ Navigation Component
-💾 Room Database
-📊 ViewModel & LiveData
-🔗 ViewBinding
-
-
-⚡ Modern Android Development
-
-🧵 Coroutines & Flow
-🌐 Retrofit & OkHttp
-🖼️ Glide
-💉 Dagger Hilt
-📍 Google Location Services
-
-
-
-📱 App Demo App Screenshots <div align="center"> <h3>Search Movies</h3> <!-- Control image size with width and height attributes --> <img src="https://github.com/user-attachments/assets/c4327575-9be4-431d-9c2a-951ccd2e7442" width="300" height="600" alt="Movie Search"> <h3>Movie Details</h3> <!-- You can use only width to maintain aspect ratio --> <img src="https://github.com/user-attachments/assets/17c017c1-4eeb-404d-a269-50138485b8d8" width="300" alt="Movie Details"> <h3>Favorites Collection</h3> <!-- You can use percentages for responsive sizing --> <img src = "https://github.com/user-attachments/assets/b0c2a07c-9308-496f-a4b1-c1557018ecf7" width="300" alt="Favorites"> <h3>Regional Discoveries</h3> <!-- You can use HTML style attribute for more control --> <img src="https://github.com/user-attachments/assets/782fa021-e2cb-42e2-b558-0bb6e4ad7dce" style="width:300px; max-width:100%; border:2px solid #ddd; border-radius:10px;" alt="Nearby Movies"> <h3>Add Custom Movies</h3> <img src="https://github.com/user-attachments/assets/26e66afd-3349-4748-ae08-f0e9b72a4379" width="300" alt="Add Movie"> <h3>Movie Collection</h3> <img src="https://github.com/user-attachments/assets/f519b110-68d1-40a3-b175-9bb20679d32c" width="300" alt="Movie Collection"> </div> <div align="center">
-🛠️ Dependencies
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>AndroidX Core: 1.15.0</li>
-        <li>Lifecycle: 2.8.7</li>
-        <li>Room: 2.6.1</li>
-        <li>Retrofit: 2.9.0</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Glide: 4.16.0</li>
-        <li>Google Play Services: 21.3.0</li>
-        <li>Material Design: 1.12.0</li>
-        <li>Kotlin Coroutines: 1.6.4</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-</div>
 
 
 ## 🛠️ Dependencies
